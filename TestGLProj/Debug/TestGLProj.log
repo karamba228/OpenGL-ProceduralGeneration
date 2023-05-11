@@ -1,0 +1,43 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  tiny_obj_loader.cpp
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\tiny_obj_loader.cpp(173,3): warning C4018: '>': signed/unsigned mismatch
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\tiny_obj_loader.cpp(340,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\tiny_obj_loader.cpp(571,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\tiny_obj_loader.cpp(587,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\tiny_obj_loader.cpp(643,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TerrainGenerator.cpp
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\TerrainGenerator.cpp(187,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\TerrainGenerator.cpp(274,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\TerrainGenerator.cpp(280,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\TerrainGenerator.cpp(308,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\TerrainGenerator.cpp(321,23): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Shader.cpp
+  NoiseGenerator.cpp
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\NoiseGenerator.cpp(96,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\NoiseGenerator.cpp(97,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\NoiseGenerator.cpp(107,85): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\NoiseGenerator.cpp(110,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\NoiseGenerator.cpp(111,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Model.cpp
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\Model.cpp(8,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\Model.cpp(36,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\Model.cpp(53,17): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\main.cpp(149,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\main.cpp(149,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\main.cpp(209,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\main.cpp(471,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\TestGLProj\main.cpp(471,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ImGuiManager.cpp
+  Camera.cpp
+  imgui_widgets.cpp
+  imgui_tables.cpp
+  imgui_impl_opengl3.cpp
+  imgui_impl_glut.cpp
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui.cpp
+  Generating Code...
+imgui.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  TestGLProj.vcxproj -> C:\Users\igord\Desktop\OpenGL-ProceduralGeneration\Debug\TestGLProj.exe
