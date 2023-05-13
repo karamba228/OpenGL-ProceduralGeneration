@@ -42,6 +42,7 @@ void ImGuiManager::startFrame(const char* name) {
 	ImGui_ImplOpenGL3_NewFrame();
 	ImGui_ImplGLUT_NewFrame();
 
+	ImGui::NewFrame();
 	ImGui::Begin(name);
 }
 
